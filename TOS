@@ -1,0 +1,103 @@
+# Terms of Service
+
+**Cipher** — Hardware-Backed Password Manager
+**Last Updated:** [DATE]
+**Provided by:** Cipher LLC ("Cipher," "we," "us," or "our")
+
+---
+
+> ⚠️ **Before you publish this:** This is a template written for a beta-stage security product. Replace all bracketed placeholders, have it reviewed by a lawyer familiar with your jurisdiction and with software liability/data protection law, and confirm the data-loss and beta disclaimers actually match how Cipher behaves.
+
+---
+
+## 1. Acceptance of Terms
+
+By downloading, installing, or using the Cipher application ("the App," "the Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not install or use Cipher.
+
+Cipher is currently in **beta**. Features, security behavior, and data formats may change without notice, and the Service may contain bugs, incomplete features, or unexpected behavior. You use the beta at your own risk.
+
+## 2. Description of Service
+
+Cipher is a desktop password manager that stores encrypted credential data locally, gated behind a physical USB security device ("Security Key"). Access to your vault requires:
+
+- Physical possession of your registered Security Key, and
+- Your account code and/or master credentials.
+
+Cipher LLC does **not** operate servers that store your vault, passwords, or account code. All vault data is encrypted and stored either on the Security Key itself or, in demo/simulation modes, locally on your device. We have no ability to access, recover, or reset your vault contents.
+
+## 3. No Account Recovery — Read This Carefully
+
+**If you lose your Security Key, forget your account code, or lose access to your device with no backup, your vault data may be permanently and irrecoverably lost.** Cipher LLC:
+
+- Does not store a copy of your vault, master password, or account code on any server.
+- Cannot reset, recover, or decrypt your vault on your behalf under any circumstances.
+- Is not responsible for data loss resulting from lost, damaged, stolen, or reformatted Security Keys, or forgotten account codes.
+
+You are solely responsible for maintaining backups (via the App's export feature) and safeguarding your Security Key and account code.
+
+## 4. Local Backups and Exports
+
+Cipher allows you to export a local backup of your vault contents. **Exported backup files may contain readable/decrypted data.** Once exported, you are solely responsible for the security of that file, including where you store it, whether you encrypt it further, and whether you transmit it over any network or cloud sync service. We strongly recommend encrypting exported backups and storing them offline.
+
+## 5. Beta Software Disclaimer
+
+Cipher is provided in beta and is undergoing active development and security review. You acknowledge that:
+
+- The App may contain security vulnerabilities not yet identified or patched.
+- Features described in documentation or marketing materials may not yet be fully implemented or may change.
+- We may release updates that alter, remove, or migrate your data format; you are responsible for backing up your vault before updating.
+- Beta participation does not entitle you to any specific level of support, uptime, or continuity of service.
+
+## 6. Your Responsibilities
+
+You agree to:
+
+- Keep your Security Key physically secure and not share it or your account code with others.
+- Use the App only on devices and operating systems you control and trust.
+- Not attempt to reverse-engineer, tamper with, or bypass Cipher's security mechanisms except as permitted for legitimate security research (see Section 11).
+- Not use Cipher to store or manage credentials for illegal purposes.
+- Promptly update the App when security patches are released.
+
+## 7. Disclaimer of Warranties
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE AGAINST ALL POSSIBLE ATTACKS.
+
+No software, including Cipher, can guarantee absolute security. You acknowledge that storing sensitive credentials always carries inherent risk.
+
+## 8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CIPHER LLC AND ITS CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF ACCESS TO ACCOUNTS PROTECTED BY CIPHER, OR UNAUTHORIZED ACCESS TO YOUR VAULT, ARISING OUT OF OR RELATED TO YOUR USE OF THE APP, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Our total liability for any claim arising from your use of Cipher shall not exceed the amount you paid us in the twelve (12) months preceding the claim, or [US $100 / a nominal amount], whichever is greater — except where such limitation is not permitted by applicable law.
+
+## 9. App Locker Feature
+
+Cipher includes an optional "App Locker" feature that can terminate designated applications on your device when the vault is locked or the Security Key is disconnected. By enabling this feature, you consent to Cipher terminating the specific processes you configure. Cipher LLC is not responsible for data loss in third-party applications resulting from this feature (e.g., unsaved work in a terminated application).
+
+## 10. Export Control
+
+Cipher includes cryptographic functionality. You are responsible for complying with all applicable export control and import laws in your jurisdiction. You may not use or export the App in violation of U.S. export laws or the laws of your country of residence.
+
+## 11. Security Research and Vulnerability Disclosure
+
+We welcome good-faith security research. If you discover a vulnerability, please report it to [security@[yourdomain].com] before public disclosure. Do not access, modify, or exfiltrate other users' data. We will not pursue legal action against researchers who follow responsible disclosure practices as outlined at [link to your security.txt / disclosure policy].
+
+## 12. Changes to the Service and Terms
+
+We may modify these Terms or the App at any time. Material changes will be communicated via [in-app notice / release notes / email]. Continued use of the App after changes take effect constitutes acceptance of the revised Terms.
+
+## 13. Termination
+
+We may suspend or discontinue the Service, in whole or part, at any time, including during or after the beta period, with or without notice. Because your vault data is stored locally/on your Security Key rather than on our servers, discontinuation of the Service should not itself affect your ability to access previously stored data using compatible software, subject to Section 3.
+
+## 14. Governing Law
+
+These Terms are governed by the laws of [YOUR STATE/COUNTRY], without regard to conflict-of-law principles. Any disputes shall be resolved in the courts located in [YOUR JURISDICTION], unless otherwise required by applicable consumer protection law.
+
+## 15. Contact
+
+Questions about these Terms can be sent to: [support/legal email]
+
+---
+
+*This document is a template and does not constitute legal advice. Consult a qualified attorney before publishing.*
